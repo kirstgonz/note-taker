@@ -1,6 +1,12 @@
-[
+{
+    "previousNotes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"Get groceries",
+        "text":"Don't forget Triscuits!"
+    },
+    {
+        "title":"Watch coding video",
+        "text":"I just want to close 1 more tab"
     }
 ]
+}
