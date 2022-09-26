@@ -26,7 +26,7 @@ If you want to run this from the command line, you must firs npm init -y, npm in
 
 Starter code made by [Xander Rapstine](https://github.com/Xandromus) 
 
-Built on by [Kirstyn Gonzalez](https://github.com/kirstgonz
+Built on by [Kirstyn Gonzalez](https://github.com/kirstgonz)
 
 ## License
 
