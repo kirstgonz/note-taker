@@ -16,6 +16,10 @@ body {
   cursor: pointer;
 }
 
+.btn {
+  background-color: turquoise;
+}
+
 .note-textarea,
 .note-title {
   color: #000000;

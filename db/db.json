@@ -1,12 +1,16 @@
 {
-    "previousNotes": [
+  "notes": [
     {
-        "title":"Get groceries",
-        "text":"Don't forget Triscuits!"
+      "title": "Get groceries",
+      "text": "Don't forget Triscuits!"
     },
     {
-        "title":"Watch coding video",
-        "text":"I just want to close 1 more tab"
+      "title": "Watch coding video",
+      "text": "I just want to close 1 more tab"
+    },
+    {
+      "title": "note",
+      "text": "note"
     }
-]
+  ]
 }
